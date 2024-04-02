@@ -107,6 +107,6 @@ const styles = StyleSheet.create({
     buttonText: {
         color: 'black',
         fontWeight: 'bold',
-        fontSize: 16, // Adjust font size as needed
+        fontSize: 16, 
     },
 });
